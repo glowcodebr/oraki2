@@ -368,4 +368,5 @@ include 'src/layout/sidebar.php';
 
 <?php include 'src/layout/mobile-nav.php'; ?>
 </body>
+
 </html>
